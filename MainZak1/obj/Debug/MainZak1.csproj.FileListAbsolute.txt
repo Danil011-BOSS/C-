@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MainZak1\bin\Debug\MainZak1.exe.config
+C:\Users\User\source\repos\MainZak1\bin\Debug\MainZak1.exe
+C:\Users\User\source\repos\MainZak1\bin\Debug\MainZak1.pdb
+C:\Users\User\source\repos\MainZak1\obj\Debug\MainZak1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MainZak1\obj\Debug\MainZak1.Form1.resources
+C:\Users\User\source\repos\MainZak1\obj\Debug\MainZak1.Properties.Resources.resources
+C:\Users\User\source\repos\MainZak1\obj\Debug\MainZak1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MainZak1\obj\Debug\MainZak1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MainZak1\obj\Debug\MainZak1.exe
+C:\Users\User\source\repos\MainZak1\obj\Debug\MainZak1.pdb
+C:\Users\User\source\repos\MainZak1\obj\Debug\MainZak1.exe.config
