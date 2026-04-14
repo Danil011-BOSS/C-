@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ZakDanClasses\bin\Debug\ZakDanClasses.exe.config
+C:\Users\User\source\repos\ZakDanClasses\bin\Debug\ZakDanClasses.exe
+C:\Users\User\source\repos\ZakDanClasses\bin\Debug\ZakDanClasses.pdb
+C:\Users\User\source\repos\ZakDanClasses\obj\Debug\ZakDanClasses.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ZakDanClasses\obj\Debug\ZakDanClasses.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ZakDanClasses\obj\Debug\ZakDanClasses.exe
+C:\Users\User\source\repos\ZakDanClasses\obj\Debug\ZakDanClasses.pdb
+C:\Users\User\source\repos\ZakDanClasses\obj\Debug\ZakDanClasses.exe.config
